@@ -23,7 +23,7 @@
 <table width="100%" style="display:table;width:100%;table-layout:fixed;">
 <tr>
 <td width="58%" valign="top"><h2>The point of view</h2><blockquote>Developer × Entrepreneur · Building AI-powered tools at the intersection of product &amp; code.</blockquote><p><sub>Small teams, ambitious ideas, and useful collaborations.</sub></p></td>
-<td width="42%" valign="top"><p><code>PROFILE</code></p><p><sub>ROLE · Frontend or full-stack engineer<br />BASED · Kolkata<br />FOCUS · TypeScript</sub></p><p><strong>4</strong> repos<br /><strong>18</strong> contributions<br /><strong>0</strong> followers</p></td>
+<td width="42%" valign="top"><p><code>PROFILE</code></p><p><sub>ROLE · AI-Search Optimising Agency Founder & A full-stack engineer<br />BASED · Kolkata<br />FOCUS · TypeScript</sub></p><p><strong>4</strong> repos<br /><strong>18</strong> contributions<br /><strong>0</strong> followers</p></td>
 </tr>
 </table>
 
