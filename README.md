@@ -89,11 +89,4 @@
 
 <p>I enjoy working with people who care about the details, share the context, and ship something useful.</p>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=aripreet-das&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F119161999%3Fu%3D0be0b16c1a44d6c1f65f449a3872d84750fb3b5e%26v%3D4&v=cinematic-social-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=aripreet-das&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F119161999%3Fu%3D0be0b16c1a44d6c1f65f449a3872d84750fb3b5e%26v%3D4&v=cinematic-social-2&mode=dark" width="100%" alt="Aripreet Das contact links" />
-</picture>
-
-<p><a href="https://github.com/aripreet-das">GitHub</a></p>
-
 </div>
