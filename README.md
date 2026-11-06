@@ -96,5 +96,4 @@
 
 <p><a href="https://github.com/aripreet-das">GitHub</a></p>
 
-<p><sub>Aripreet Das · cinematic profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 </div>
