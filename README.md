@@ -1,7 +1,5 @@
 <div align="center">
 
-<p><sub>AN EDITORIAL PROFILE · ARIPREET-DAS</sub></p>
-
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=aripreet-das&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F119161999%3Fu%3D0be0b16c1a44d6c1f65f449a3872d84750fb3b5e%26v%3D4&label=Aripreet%20Das&mode=light" />
   <img src="https://www.gitskins.com/api/section/hero?username=aripreet-das&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F119161999%3Fu%3D0be0b16c1a44d6c1f65f449a3872d84750fb3b5e%26v%3D4&label=Aripreet%20Das&mode=dark" width="100%" alt="Aripreet Das cinematic profile scene" />
