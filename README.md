@@ -80,13 +80,6 @@
   <img src="https://www.gitskins.com/api/section/heatmap?username=aripreet-das&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F119161999%3Fu%3D0be0b16c1a44d6c1f65f449a3872d84750fb3b5e%26v%3D4&style=snake&v=cinematic-snake-1&mode=dark" width="100%" alt="Aripreet Das contribution snake" />
 </picture>
 
-<h2>Play the next move</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/chess?username=aripreet-das&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F119161999%3Fu%3D0be0b16c1a44d6c1f65f449a3872d84750fb3b5e%26v%3D4&v=cinematic-chess-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/chess?username=aripreet-das&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F119161999%3Fu%3D0be0b16c1a44d6c1f65f449a3872d84750fb3b5e%26v%3D4&v=cinematic-chess-1&mode=dark" width="100%" alt="Aripreet Das animated chess replay" />
-</picture>
-
 <p align="center"><sub>─────── ◇ ───────</sub></p>
 
 <div align="center">
